@@ -1,0 +1,2 @@
+pbl:
+	g++ main.cpp order.cpp list.cpp bill.cpp QuanLy.cpp -o abc
